@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mangwon-fullsalon-note.best-hapjeong-pub.xyz/sitemap.xml
+Sitemap: https://mangwon-fullsalon-note.best-hapjeong-pub.xyz/sitemap-pages.xml
